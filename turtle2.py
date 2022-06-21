@@ -1,0 +1,25 @@
+import turtle as t
+
+d = 200
+
+t.shape("turtle")
+t.color("red")
+t.fd(d)
+t.lt(120)
+t.fd(d)
+t.lt(120)
+t.fd(d)
+t.lt(120)
+t.color("green")
+t.pensize(3)
+t.fd(d)
+t.lt(90)
+t.fd(d)
+t.lt(90)
+t.fd(d)
+t.lt(90)
+t.fd(d)
+t.lt(90)
+t.color("blue")
+t.pensize(5)
+t.circle(50) 
